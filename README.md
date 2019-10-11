@@ -23,3 +23,8 @@ You can add a stroke color and a fill color but make sure the colors are RGB.
 Press "Convert to Text File" to generate a .path file
 
 ![Screenshot 3](https://github.com/azer89/IllustratorPathConverter/blob/master/screenshot3.png)
+
+Done!
+
+A .path file is just a text file containing polygonal paths, if you are interested in the format, you can read 
+".../code/EmptyPanel/Source/PathIO.cpp"
