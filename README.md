@@ -16,9 +16,9 @@ The plugin doesn't care about the layer name.
 
 The plugin does not support splines, it only reads the anchor points, so the shapes must be sampled.
 
-You can add a stroke color and a fill color but make sure the colors are RGB.
-
 ![Screenshot 2](https://github.com/azer89/IllustratorPathConverter/blob/master/screenshot2.png)
+
+You can add a stroke color and a fill color but make sure the colors are RGB.
 
 Press "Convert to Text File" to generate a .path file
 
