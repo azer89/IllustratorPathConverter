@@ -1,4 +1,5 @@
-This program will generate .aip files that are used as plugins for Adobe Illustrator.
+This program will convert an .ai file to a .path file.
+
 
 You don't need to compile the project, just copy all three .aip files to 
 "C:\Program Files\Adobe\Adobe Illustrator CC 2018\Plug-ins"
@@ -14,6 +15,8 @@ The plugin doesn't care about the layer name.
 ![Screenshot 1](https://github.com/azer89/IllustratorPathConverter/blob/master/screenshot1.PNG)
 
 The plugin does not support splines, it only reads the anchor points, so the shapes must be sampled.
+
+You can add a stroke color and a fill color but make sure the colors are RGB.
 
 ![Screenshot 2](https://github.com/azer89/IllustratorPathConverter/blob/master/screenshot2.png)
 
