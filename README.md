@@ -2,7 +2,8 @@ This program will convert an .ai file to a .path file.
 
 
 You don't need to compile the project, just copy all three .aip files to 
-"C:\Program Files\Adobe\Adobe Illustrator CC 2018\Plug-ins"
+
+"C:\Program Files\Adobe\Adobe Illustrator CC 2018\Plug-ins\"
 
 
 The first step is to create a 500x500 document, and make sure the color mode is RGB.
