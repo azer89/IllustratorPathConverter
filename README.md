@@ -1,7 +1,7 @@
 This program will convert an .ai file to a .path file.
 
 
-This project was developed on Visual Studio 2017 (Not 2013). You (probably) don't need to compile the project, just copy all three .aip files to 
+This project was developed on Visual Studio 2017. You (probably) don't need to compile the project, just copy all three .aip files to 
 
 "C:\Program Files\Adobe\Adobe Illustrator CC 2018\Plug-ins\"
 
