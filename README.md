@@ -31,3 +31,5 @@ Done!
 
 A .path file is just a text file containing polygonal paths, if you are interested in the format, you can read 
 ".../code/EmptyPanel/Source/PathIO.cpp"
+
+You don't need to use Rename2Control.aip, it's for another research project.
