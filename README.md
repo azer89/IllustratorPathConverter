@@ -1,4 +1,4 @@
-This program will convert an .ai file to a .path file.
+This program will convert an .ai file to a text-based.path file.
 
 
 This project was developed on Visual Studio 2017. You (probably) don't need to compile the project, just copy all three .aip files to 
